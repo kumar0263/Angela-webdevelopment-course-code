@@ -1,0 +1,32 @@
+Day 1-> HOw internet works
+        and submarinecablemap.com website to see underwater cable connections
+        Client -> ISP -> DNS 
+        How Do websites works
+        when we request the server it will send the data back in the form of html,Css and javascript files and we need to use a browser like chrome or someother 
+        thing that will combine all these files and shows us the actual website
+        HTML -> content
+        CSS -> Styling
+        JS -> Functionality
+        
+
+Day 2 -> Made a small html website 
+        Learning about file paths 
+
+Day 3 -> relative file path and absolute file path
+        relative file path -> we use special characters 
+                                1. two double dots(indicates moving up a level in file path and look for the thing)[../]
+                                2. single dot(indicates us to stay in the current directory and look for the thing)[./]
+                                
+        Building multi-page websites
+                we use anchor tag and give relative path of the other html page <a href="relative xpath">another page</a>
+
+        Html boiler plate code
+                <!DOCTYPE html> -> tells the browser that the html code is written in which version in our case it's html 5
+                <html lang="en"> </html> => root of the document 
+                <head> </head> -> imp info about our website this info is not shown to user \
+                <meta charset = "UTF-8"> -> will be present in the head tag 
+                <meta name="viewport" content"width=device-width", initial-scale=1.0">
+                <title> </title> -> name of the website inside the head tag
+                <body> </body> -> all the content will be present
+
+Day 4 -> 
